@@ -10,3 +10,4 @@ spec:
   containers:
   - name: debug
     image: rajudocker526/debug:v1
+    imagePullPolicy: Always
